@@ -54,8 +54,12 @@ Can see my chip at: https://gds-viewer.tinytapeout.com/?pdk=sky130A&model=https%
 * **Hardware VGA Signal Processing**
 * **Verilog** 
 * **Real-Time Procedural Graphics:** Generated active display lines, borders, and moving game elements dynamically using combinational pixel coordinate logic.
-* **Asynchronous Input & Serial Communication:** Interfaced with external NES-style digital gamepad peripherals via SPI-like hardware shift-register protocols.
 * **ASIC Synthesis & Manufacturing:** Configured hardware modules to fit a physical silicon deployment workflow via Tiny Tapeout.
+
+## 🏆 How I would take this project further
+
+* **Add sound effects**
+* **Implement and prototype the system on a FPGA** 
 
 
 
