@@ -55,7 +55,7 @@ https://gds-viewer.tinytapeout.com/?pdk=sky130A&model=https%3A%2F%2Fthomas-cowie
 
 * **Hardware VGA Signal Processing**
 * **Verilog** 
-* **Real-Time Procedural Graphics:** Generated active display lines, borders, and moving game elements dynamically using combinational pixel coordinate logic.
+* **Design of a real-Time graphics system:** Generated active display lines, borders, and moving game elements dynamically using combinational pixel coordinate logic.
 * **ASIC Synthesis & Manufacturing:** Configured hardware modules to fit a physical silicon deployment workflow via Tiny Tapeout.
 
 ## 🏆 How I would take this project further
