@@ -45,13 +45,12 @@ If a player accumulates more than 5 points, they win and the game ends. To signi
 
 ##  Synthesis
 
-## 📐 Core Engineering Skills Demonstrated
+## 📐 Engineering Skills Demonstrated
 
-* **Hardware VGA Signal Processing:** Designed real-time horizontal and vertical synchronization pipelines in Verilog.
-* **Real-Time Procedural Graphics:** Generated active display lines, borders, and moving game elements dynamically on-the-fly using combinational pixel coordinate logic instead of static frame buffers.
+* **Hardware VGA Signal Processing:** 
+* **Real-Time Procedural Graphics:** Generated active display lines, borders, and moving game elements dynamically using combinational pixel coordinate logic.
 * **Asynchronous Input & Serial Communication:** Interfaced with external NES-style digital gamepad peripherals via SPI-like hardware shift-register protocols.
-* **Edge-Triggered Physics Engines:** Designed robust digital positive-edge detectors to lock clock-heavy game logic safely to 60Hz video refresh rates.
-* **ASIC Synthesis & Manufacturing Pipelines:** Configured hardware modules to fit the hard constraints of a physical silicon die deployment workflow via Tiny Tapeout.
+* **ASIC Synthesis & Manufacturing:** Configured hardware modules to fit a physical silicon deployment workflow via Tiny Tapeout.
 
 
 
