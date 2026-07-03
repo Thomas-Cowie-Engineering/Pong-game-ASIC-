@@ -29,9 +29,7 @@ If a player accumulates more than 5 points, they win and the game ends. To signi
 
 
 
-## 🛠️ Hardware & Pin Mapping
-
-The design targets the standard **TinyVGA PMOD** pinout mapping configuration.
+## 🛠️ Pin Mapping
 
 ### Dedicated Inputs (`ui_in`)
 | Pin | Function | Description |
@@ -47,3 +45,6 @@ The design targets the standard **TinyVGA PMOD** pinout mapping configuration.
 |---|---|---|
 | `uio_out[2:0]` | left paddle players score | Stores the player's score. Can be connected to a binary LED display to display their score. |
 | `ui_out[1]` | right paddle players score| Stores the player's score. Can be connected to a binary LED display to display their score.|
+
+
+
