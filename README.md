@@ -41,7 +41,9 @@ The design targets the standard **TinyVGA PMOD** pinout mapping configuration.
 | `ui_in[5]` | Gamepad Clock | Clock signal driving the gamepad controller |
 | `ui_in[6]` | Gamepad Data | Serial data stream input from the controller |
 
+
 ### Dedicated Outputs (`uo_out`)
-The output byte is packed to interface seamlessly with the TinyVGA PMOD resistor-ladder DAC:
-```verilog
-assign uo_out = {hsync, B[0], G[0], R[0], vsync, B[1], G[1], R[1]};
+| Pin | Function | Description |
+|---|---|---|
+| `uio_out[2:0]` | left paddle players score | Stores the player's score. Can be connected to a binary LED display to display their score. |
+| `ui_out[1]` | right paddle players score| Stores the player's score. Can be connected to a binary LED display to display their score.|
