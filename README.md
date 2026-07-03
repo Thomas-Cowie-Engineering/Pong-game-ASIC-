@@ -45,6 +45,10 @@ If a player accumulates more than 5 points, they win and the game ends. To signi
 
 ##  Synthesis
 
+<img width="396" height="472" alt="image" src="https://github.com/user-attachments/assets/23ef7120-dff1-48c0-a1b2-72ffcc80ffa4" />
+
+Can see my chip at: https://gds-viewer.tinytapeout.com/?pdk=sky130A&model=https%3A%2F%2Fthomas-cowie-engineering.github.io%2FSynthesis-of-VGA-game%2F%2Ftinytapeout.oas
+
 ## 📐 Engineering Skills Demonstrated
 
 * **Hardware VGA Signal Processing:** 
