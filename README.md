@@ -26,9 +26,6 @@ If a player accumulates more than 5 points, they win and the game ends. To signi
 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/47116890-2667-4ad1-834c-b6a385dcab14" />
 
-
-
-
 ## 🛠️ Pin Mapping
 
 ### Dedicated Inputs (`ui_in`)
@@ -44,7 +41,9 @@ If a player accumulates more than 5 points, they win and the game ends. To signi
 | Pin | Function | Description |
 |---|---|---|
 | `uio_out[2:0]` | left paddle players score | Stores the player's score. Can be connected to a binary LED display to display their score. |
-| `ui_out[1]` | right paddle players score| Stores the player's score. Can be connected to a binary LED display to display their score.|
+| `ui_out[5:3]` | right paddle players score| Stores the player's score. Can be connected to a binary LED display to display their score.|
+
+##  Synthesis
 
 
 
