@@ -15,7 +15,7 @@ The reason why one controller controls both paddles is purely to get it to run n
 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/25317818-a0c6-4721-b090-0a8749cf1bd3" />
 
-By setting ui_in[0] to high (1'b1) then you can change the background colour to a nice shade of blue.
+By setting ui_in[0] to high (1'b1) you can change the background colour to a nice shade of blue.
 
 <img width="457" height="347" alt="image" src="https://github.com/user-attachments/assets/b3fa83bd-5e25-4726-b53c-50b8fb23d977" />
 
